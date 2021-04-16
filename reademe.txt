@@ -10,3 +10,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 My stupid boss still prefers SVN.
 哈哈，我中了那个花崛起了！
+这是一个dev分支
